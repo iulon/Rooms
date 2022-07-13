@@ -1,0 +1,41 @@
+
+.inputButton{
+  width: 811px;
+  height: 190px;
+  background-color: rgb(244, 244, 244);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:150px auto;
+}
+
+.input{
+  width: 260px;
+  height: 60px;
+  margin-top: 5px;
+  margin-right: 16px;
+  padding-left: 20px;
+  outline: none;
+  border: 2px solid #CECECE;
+}
+::placeholder{
+  color: #CECECE;
+}
+.label{
+  color: #5863F8;
+}
+
+.Button{ 
+  width: 100px;
+  height: 50px;
+  background-color: #5863F8;
+  color: white;
+  border: none;
+  width: 260px;
+  height: 60px;
+  margin-top: 20px;
+  text-align: center;
+}
+.send{
+  margin-left: 10px;
+}
